@@ -1,1 +1,1 @@
-trying to resolve 
+#!/bin/bash
